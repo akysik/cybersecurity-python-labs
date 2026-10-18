@@ -1,0 +1,290 @@
+[
+    {
+        "event": "login",
+        "user": "artur",
+        "result": "success",
+        "timestamp": "2026-10-04 21:37:20",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin",
+        "result": "failure",
+        "timestamp": "2026-10-04 21:37:20",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "student",
+        "result": "success",
+        "timestamp": "2026-10-04 21:37:20",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "artur",
+        "result": "success",
+        "timestamp": "2026-10-04 21:50:34",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin",
+        "result": "failure",
+        "timestamp": "2026-10-04 21:50:34",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "student",
+        "result": "success",
+        "timestamp": "2026-10-04 21:50:34",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "artur",
+        "result": "success",
+        "timestamp": "2026-10-04 21:51:26",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin",
+        "result": "failure",
+        "timestamp": "2026-10-04 21:51:26",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "student",
+        "result": "success",
+        "timestamp": "2026-10-04 21:51:26",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "artur",
+        "result": "success",
+        "timestamp": "2026-10-04 22:00:02",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin",
+        "result": "failure",
+        "timestamp": "2026-10-04 22:00:02",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "student",
+        "result": "success",
+        "timestamp": "2026-10-04 22:00:02",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "artur",
+        "result": "success",
+        "timestamp": "2026-10-04 22:01:53",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin",
+        "result": "failure",
+        "timestamp": "2026-10-04 22:01:53",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "student",
+        "result": "success",
+        "timestamp": "2026-10-04 22:01:53",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "artur",
+        "result": "success",
+        "timestamp": "2026-10-04 23:30:58",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin",
+        "result": "failure",
+        "timestamp": "2026-10-04 23:30:58",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "student",
+        "result": "success",
+        "timestamp": "2026-10-04 23:30:58",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "artur",
+        "result": "success",
+        "timestamp": "2026-10-05 11:50:01",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin",
+        "result": "failure",
+        "timestamp": "2026-10-05 11:50:01",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "student",
+        "result": "success",
+        "timestamp": "2026-10-05 11:50:01",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "artur",
+        "result": "success",
+        "timestamp": "2026-10-05 12:43:28",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin",
+        "result": "failure",
+        "timestamp": "2026-10-05 12:43:28",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "student",
+        "result": "success",
+        "timestamp": "2026-10-05 12:43:28",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "artur",
+        "result": "success",
+        "timestamp": "2026-10-12 10:13:04",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin",
+        "result": "failure",
+        "timestamp": "2026-10-12 10:13:04",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "student",
+        "result": "success",
+        "timestamp": "2026-10-12 10:13:04",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "artur",
+        "result": "success",
+        "timestamp": "2026-10-12 10:47:13",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin",
+        "result": "failure",
+        "timestamp": "2026-10-12 10:47:13",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "student",
+        "result": "success",
+        "timestamp": "2026-10-12 10:47:13",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "artur",
+        "result": "success",
+        "timestamp": "2026-10-12 10:55:35",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin",
+        "result": "failure",
+        "timestamp": "2026-10-12 10:55:35",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "student",
+        "result": "success",
+        "timestamp": "2026-10-12 10:55:35",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "artur",
+        "result": "success",
+        "timestamp": "2026-10-17 22:53:01",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "admin",
+        "result": "failure",
+        "timestamp": "2026-10-17 22:53:01",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "student",
+        "result": "success",
+        "timestamp": "2026-10-17 22:53:01",
+        "args": [],
+        "kwargs": {}
+    }
+]

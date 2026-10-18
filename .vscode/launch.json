@@ -1,0 +1,37 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Завдання 1",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "labs.lab01.task1",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "Завдання 2",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "labs.lab01.task2",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "Завдання 3",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "labs.lab01.task3",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "Лабораторна №1",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "labs.lab01.main",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

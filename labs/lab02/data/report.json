@@ -1,0 +1,28 @@
+{
+  "total_passwords": 44,
+  "weak_passwords": 10,
+  "weak_percent": 22.73,
+  "average_length": 9.98,
+  "top_masks": [
+    {
+      "mask": "Ullllldddds",
+      "count": 4
+    },
+    {
+      "mask": "llllllll",
+      "count": 3
+    },
+    {
+      "mask": "llllll",
+      "count": 3
+    },
+    {
+      "mask": "lllllll",
+      "count": 2
+    },
+    {
+      "mask": "dddddd",
+      "count": 1
+    }
+  ]
+}
