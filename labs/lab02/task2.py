@@ -121,20 +121,14 @@ def run_cli():
 
     args = parser.parse_args()
 
-    logging.basicConfig(
-        level=logging.INFO, format="[%(levelname)s] %(message)s"
-    )
+    logging.basicConfig(level=logging.INFO, format="[%(levelname)s] %(message)s")
 
     if not args.wordlist.exists():
         logger.error(f"Файл {args.wordlist} не знайдено.")
         return
 
-    logger.info(
-        f"Processing dictionary file {args.wordlist} using generators..."
-    )
-    result = analyze_wordlist(
-        args.wordlist, args.min_length, args.top_masks
-    )
+    logger.info(f"Processing dictionary file {args.wordlist} using generators...")
+    result = analyze_wordlist(args.wordlist, args.min_length, args.top_masks)
     logger.info(f"Analyzed {result.total_passwords:,} passwords.")
 
     print("\n=== Password Dictionary Audit Summary ===")
@@ -146,9 +140,7 @@ def run_cli():
 
     print(f"\n=== Top-{args.top_masks} Password Masks ===")
     for i, item in enumerate(result.top_masks, 1):
-        print(
-            f"{i}. Mask ({item['mask']}) : {item['count']:,} ({item['percentage']}%)"
-        )
+        print(f"{i}. Mask ({item['mask']}) : {item['count']:,} ({item['percentage']}%)")
 
     if args.output_stats:
         args.output_stats.parent.mkdir(parents=True, exist_ok=True)

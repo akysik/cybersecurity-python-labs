@@ -18,7 +18,7 @@ class User:
         self.role = role
         self.active = active
         self._email = ""
-        self.email = email  # Викличе сеттер з перевіркою
+        self.email = email
         self.__password_hash: bytes | None = None
         self.__password_salt: bytes | None = None
 
